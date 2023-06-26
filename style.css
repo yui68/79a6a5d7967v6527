@@ -16,6 +16,7 @@ body {
   background-image: url(images/background.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
   color: white;
 }
 
@@ -137,6 +138,7 @@ span {
       font-size: 200%;
       font-family: 'Noto Sans';
       background-image: url(images/background.jpeg);
+      background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
       color: white;
